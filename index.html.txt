@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KraftLine Engineering</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f6f8;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #002b5c;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      margin-top: 20px;
+      border-radius: 10px;
+    }
+    h1, h2 {
+      margin-top: 0;
+    }
+    ul {
+      line-height: 1.8;
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      margin-top: 30px;
+      color: #777;
+    }
+    a {
+      color: #004080;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>KraftLine Engineering</h1>
+    <p>Piping | Fabrication | Freelance Engineering Services</p>
+  </header>
+
+  <section>
+    <h2>About Us</h2>
+    <p>KraftLine Engineering is led by a Mechanical Engineer with over 7 years of Gulf experience in piping, fabrication, BOQ preparation, and wellhead hook-up projects. Based in the UAE, we deliver reliable freelance support to contractors and consultants across the Middle East.</p>
+
+    <h2>Services Offered</h2>
+    <ul>
+      <li>BOQ / MTO Preparation</li>
+      <li>Piping Spool Drawing Support</li>
+      <li>Fabrication & Welding Documentation</li>
+      <li>Method Statements / ITPs</li>
+      <li>Remote Project Coordination</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:kraftline.eng@gmail.com">kraftline.eng@gmail.com</a></p>
+    <p>WhatsApp: +91-XXXXXXXXXX</p>
+    <p>LinkedIn: <a href="#" target="_blank">Your LinkedIn Profile</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 KraftLine Engineering. All rights reserved.</p>
+  </footer>
+</body>
+</html>
